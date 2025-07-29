@@ -74,8 +74,8 @@ import webix from '../app/assets/svg/skills/webix.svg';
 import wolframalpha from '../app/assets/svg/skills/wolframalpha.svg';
 import wordpress from '../app/assets/svg/skills/wordpress.svg';
 import elementor from '../app/assets/svg/skills/elementor.svg';
-import DBeaver from '../app/assets/svg/skills/dbeaver.svg';
-import Woocommerce from '../app/assets/svg/skills/woocommerce.svg';
+import dbeaver from '../app/assets/svg/skills/dbeaver.svg';
+import woocommerce from '../app/assets/svg/skills/woocommerce.svg';
 
 import pandas from '../app/assets/svg/skills/pandas.svg';
 import scikitlearn from '../app/assets/svg/skills/scikit-learn.svg';
@@ -96,9 +96,9 @@ export const skillsImage = (skill) => {
     case 'elementor':
       return elementor;
     case 'dbeaver':
-      return DBeaver;
+      return dbeaver;
     case 'woocommerce':
-      return Woocommerce;
+      return woocommerce;
     case 'html':
       return html;
     case 'photoshop':
