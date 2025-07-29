@@ -1,9 +1,12 @@
 // @flow strict
-
+"use client"
+import dynamic from "next/dynamic";
 import { skillsData } from "@/utils/data/skills";
 import { skillsImage } from "@/utils/skill-image";
 import Image from "next/image";
-import Marquee from "react-fast-marquee";
+
+// Dynamically import Marquee with SSR disabled
+const Marquee = dynamic(() => import("react-fast-marquee"), { ssr: false });
 
 function Skills() {
   return (
@@ -66,6 +69,6 @@ function Skills() {
       </div>
     </div>
   );
-};
+}
 
 export default Skills;
