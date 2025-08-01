@@ -9,11 +9,6 @@ const SCROLL_THRESHOLD = 50;
 
 const ScrollToTop = () => {
   const [btnCls, setBtnCls] = useState(DEFAULT_BTN_CLS);
-  const [now, setNow] = useState(null);
-
-  useEffect(() => {
-    setNow(Date.now());
-  }, []);
 
   useEffect(() => {
     const handleScroll = () => {
@@ -32,12 +27,9 @@ const ScrollToTop = () => {
   const onClickBtn = () => window.scrollTo({ top: 0, behavior: "smooth" });
 
   return (
-    <>
-      <button className={btnCls} onClick={onClickBtn}>
-        <FaArrowUp />
-      </button>
-      <div>{now}</div>
-    </>
+    <button className={btnCls} onClick={onClickBtn}>
+      <FaArrowUp />
+    </button>
   );
 };
 
