@@ -1,3 +1,4 @@
+"use client";
 import AboutSection from "./components/homepage/about";
 import ContactSection from "./components/homepage/contact";
 import Education from "./components/homepage/education";
@@ -7,9 +8,7 @@ import Projects from "./components/homepage/projects";
 import Skills from "./components/homepage/skills";
 
 
-export default async function Home() {
-  // const blogs = await getData();
-
+export default function Home() {
   return (
     <div suppressHydrationWarning >
       <HeroSection />
@@ -22,4 +21,4 @@ export default async function Home() {
       <ContactSection />
     </div>
   )
-};
+}
