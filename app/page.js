@@ -15,9 +15,9 @@ export default async function Home() {
       <HeroSection />
       <AboutSection />
       {/* <Experience /> */}
-      {/* <Skills /> */}
-      {/* <Projects /> */}
-      {/* <Education /> */}
+      <Skills />
+      <Projects />
+      <Education />
       {/* <Blog blogs={blogs} /> */}
       <ContactSection />
     </div>
