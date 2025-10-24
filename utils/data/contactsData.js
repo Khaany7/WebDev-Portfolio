@@ -6,6 +6,5 @@ export const contactsData = {
     facebook: 'https://www.facebook.com/share/16hXLsdVnU/',
     linkedIn: 'https://www.linkedin.com/in/abdur-rehman-yousafzai-09602a1a3/',
     // twitter: 'https://twitter.com/Khaany7',
-    // stackOverflow: 'https://stackoverflow.com/users/16840768/abu-said',
     devUsername: "Khaany7"
 }

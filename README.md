@@ -3,7 +3,7 @@
 This is my personal portfolio website where I showcase my projects, skills, experience, and contact information. It's designed to reflect my work as a frontend and backend developer, with a focus on clean UI, responsive design, and modern technologies.
 
 ## 🔗 Live Website
-[Visit Portfolio](https://your-portfolio-domain.com)
+[Visit Portfolio](https://www.abdurrehmanyousafzai.dev)
 
 ---
 
@@ -32,7 +32,7 @@ This is my personal portfolio website where I showcase my projects, skills, expe
 To run this project locally:
 
 ```bash
-git clone https://github.com/yourusername/your-portfolio-repo.git
-cd your-portfolio-repo
+git clone https://github.com/Khaany7/WebDev-Portfolio
+cd master
 npm install
 npm run dev
