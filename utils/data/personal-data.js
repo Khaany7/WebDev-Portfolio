@@ -3,7 +3,7 @@ export const personalData = {
   profile: "/profile.png",
   designation: "Software Developer",
   description:
-    "My name is Abdur Rehman, a passionate and self-driven web developer with strong experience in JavaScript, React.js, TypeScript, and Python. I specialize in building responsive, high-performance web applications and have hands-on experience with deployment using AWS services including EC2, ECS clusters, VPC, Route 53, and setting up CI/CD pipelines for smooth, automated deployments. I also work with Docker for containerization and scalable application delivery. I'm always eager to learn new technologies, solve real-world problems, and contribute to impactful development projects.",
+    "My name is Abdur Rehman, a passionate and highly skilled Full Stack Software Developer with hands-on experience in modern web development using the MERN stack, Node.js, React, TypeScript, and Python. I specialize in building scalable applications and automating complex business workflows with tools like Make.com, n8n, Zapier, and Airtable. I’ve contributed to projects serving over a million users and have developed automation solutions such as an automated Monday.com PDF booking system to improve efficiency. With a strong background in CI/CD and AWS cloud services, I’m passionate about creating reliable, user-focused solutions and continuously growing as a developer while collaborating effectively with teams to deliver impactful results.",
   email: "abdurrehmankhan4946@gmail.com",
   phone: "+92 322 5832829",
   address: "PECHS BLOCK 06, Karachi, Pakistan - 07545 ",
@@ -15,5 +15,5 @@ export const personalData = {
   leetcode: "https://leetcode.com/u/khaany7/",
   devUsername: "Khaany7",
   resume:
-    "https://drive.google.com/file/d/1zwxUPRA6NAUSgvp6s2io8U5M0IMB1Yn1/view?usp=drive_link",
+    "https://drive.google.com/file/d/1Y4TjIXBJNwW2ijJpaZnCyhF3v0tDoHxJ/view?usp=drive_link",
 };
