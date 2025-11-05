@@ -1,7 +1,7 @@
 export const personalData = {
   name: "Abdur Rehman",
   profile: "/profile.png",
-  designation: "Software Developer",
+  designation: "Automation Engineer",
   description:
     "My name is Abdur Rehman, a passionate and a highly skilled Automation Engineer with hands-on experience in modern web development using the MERN stack, Node.js, React, TypeScript, and Python. I specialize in building scalable applications and automating complex business workflows with tools like Make.com, n8n, Zapier, and Airtable. I’ve contributed to projects serving over a million users and have developed automation solutions such as an automated Monday.com PDF booking system to improve efficiency. With a strong background in CI/CD and AWS cloud services, I’m passionate about creating reliable, user-focused solutions and continuously growing as a developer while collaborating effectively with teams to deliver impactful results.",
   email: "abdurrehmankhan4946@gmail.com",
