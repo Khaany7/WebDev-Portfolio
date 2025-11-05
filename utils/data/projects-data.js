@@ -20,7 +20,7 @@ export const projectsData = [
       "AWS Route 53",
       "AWS Amplify",
     ],
-    role: "Full Stack Developer (React.js)",
+    role: "Automation Engineer Developer (React.js)",
     code: "",
     demo: "",
   },

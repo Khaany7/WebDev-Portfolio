@@ -1,14 +1,14 @@
 export const experiences = [
   {
     id: 1,
-    title: "Software Engineer",
+    title: "Automation Engineer",
     company: "Square Tech Exchange.",
     duration: "(Jan 2024 - Present)",
   },
 
   {
     id: 2,
-    title: "Software Engineer",
+    title: "Automation Engineer",
     company: "Marcell Technologies.",
     duration: "(Jan 2023 - Dec 2024)",
   },
