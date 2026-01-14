@@ -20,39 +20,39 @@ export const projectsData = [
       "AWS Route 53",
       "AWS Amplify",
     ],
-    role: "Automation Engineer Developer (React.js)",
+    role: "Software Engineer Developer (React.js)",
     code: "",
     demo: "",
   },
   {
     id: 2,
-    name: "Monday.com Automation",
+    name: "Monday.com Software",
     description:
-      "I developed an automation workflow using n8n to streamline the document management process for Monday.com. The system automatically fetched PDF attachments from user Gmail accounts, extracted relevant data, and uploaded the files into Monday.com boards according to predefined columns. This automation significantly reduced manual work and improved the accuracy of record management across multiple teams.",
+      "I developed an Software workflow using n8n to streamline the document management process for Monday.com. The system automatically fetched PDF attachments from user Gmail accounts, extracted relevant data, and uploaded the files into Monday.com boards according to predefined columns. This Software significantly reduced manual work and improved the accuracy of record management across multiple teams.",
     tools: ["n8n", "Gmail API", "Monday.com API", "Node.js", "JavaScript"],
     code: "",
     demo: "",
-    role: "Automation Developer",
+    role: "Software Developer",
   },
   {
     id: 3,
     name: "TikTok Data Scraping",
     description:
-      "I built a TikTok automation system that fetched user data and analytics, executed scripts to process the information, and updated Airtable records automatically based on user IDs and corresponding columns. This solution streamlined influencer tracking and data synchronization, helping the team maintain up-to-date performance metrics efficiently.",
+      "I built a TikTok Software system that fetched user data and analytics, executed scripts to process the information, and updated Airtable records automatically based on user IDs and corresponding columns. This solution streamlined influencer tracking and data synchronization, helping the team maintain up-to-date performance metrics efficiently.",
     tools: ["Airtable", "Zapier", "TikTok API", "Python", "JavaScript"],
     code: "",
     demo: "",
-    role: "Automation Engineer",
+    role: "Software Engineer",
   },
   {
     id: 4,
-    name: "Sales Forecasting Automation",
+    name: "Sales Forecasting Software",
     description:
-      "I created an automation to predict future sales of a brand’s products using seasonality index and forecasting models. The system analyzed historical data and generated projections for the next 4 to 5 years, providing valuable insights for inventory planning and marketing strategy. This automation helped optimize decision-making and improved demand forecasting accuracy.",
+      "I created an Software to predict future sales of a brand’s products using seasonality index and forecasting models. The system analyzed historical data and generated projections for the next 4 to 5 years, providing valuable insights for inventory planning and marketing strategy. This Software helped optimize decision-making and improved demand forecasting accuracy.",
     tools: ["Python", "Pandas", "NumPy", "Forecasting Models", "Data Analysis"],
     code: "",
     demo: "",
-    role: "Automation & Data Engineer",
+    role: "Software & Data Engineer",
   },
 ];
 
