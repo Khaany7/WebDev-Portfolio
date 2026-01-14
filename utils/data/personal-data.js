@@ -15,5 +15,5 @@ export const personalData = {
   leetcode: "https://leetcode.com/u/khaany7/",
   devUsername: "Khaany7",
   resume:
-    "https://drive.google.com/file/d/1Y4TjIXBJNwW2ijJpaZnCyhF3v0tDoHxJ/view?usp=drive_link",
+    "/Abdur-Rehman-Senior-Frontend-Engineer-Resume.pdf",
 };
